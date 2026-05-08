@@ -1,0 +1,29 @@
+body{
+    background-image: url(frufru/Lya.1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: pink;
+  
+} 
+h1{
+    color: darkorchid;
+    font-size: 50px;
+}
+p{
+    font-size: 70px;
+    background-color: aliceblue;
+    color:black;
+    border: 2px solid black;
+    border-radius: 1000px;
+    letter-spacing: 2px;
+        
+
+
+}
+a{
+    font-size: 50px;
+    color: black;
+}
+
